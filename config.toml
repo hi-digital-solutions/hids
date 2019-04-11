@@ -15,8 +15,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
-  facebook = "https://twitter.com/hids_io"
-  twitter = ""
+  twitter = "https://twitter.com/hids_io"
   instagram = ""
   youtube = ""
   github = ""
