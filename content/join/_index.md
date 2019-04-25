@@ -8,7 +8,7 @@ We endeavor to be transparent and honest in all the activities we do at HI Digit
 
 ## Apply
 
-[Email](mailto:rob.miller@hidigitalsolutionsllc.com) your resume and cover letter
+[Email](mailto:careers@hidigitalsolutionsllc.com) your resume and cover letter
 
 ## Program
 
