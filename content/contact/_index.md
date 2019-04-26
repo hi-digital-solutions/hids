@@ -3,4 +3,4 @@ title: "Contact us"
 weight: 1
 ---
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/contact@hidigitalsolutionsllc.com"  >}}
