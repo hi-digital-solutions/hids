@@ -1,3 +1,14 @@
 .measure-wide {
   max-width: 55em;
 }
+
+.author-credit,
+.original-url {
+  font-size: inherit;
+  margin: 0 0 .25em;
+}
+
+.original-url {
+  font-style: italic;
+  font-weight: lighter;
+}
