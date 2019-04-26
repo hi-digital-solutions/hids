@@ -19,4 +19,4 @@ We work with systems running on both Linux and Windows, using Python, JavaScript
 ## What we’re looking for
 We need a full-time engineer to join our team and help us grow.
 
-Are you familiar with the work of folks like Dr. Nicole Forsgren, Jez Humble, Gene Kim, Mike Rother and Dr. Eli Goldratt?  Do you want to work in small, collaborative teams, using TDD?    Are you interested in how technologies like containers and serverless frameworks can help deliver business value more quickly?  If so, [we want to hear from you]({{< ref "/join" >}})!
+Are you familiar with the work of folks like Dr. Nicole Forsgren, Jez Humble, Gene Kim, Mike Rother and Dr. Eli Goldratt?  Do you want to work in small, collaborative teams, using TDD?    Are you interested in how technologies like containers and serverless frameworks can help deliver business value more quickly?  If so, [we want to hear from you]({{< relref "/join" >}})!
