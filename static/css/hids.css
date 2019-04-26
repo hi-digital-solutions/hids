@@ -6,3 +6,16 @@
   font-size: inherit;
   margin: 0 0 .25em;
 }
+
+.collage {
+  max-width: 915px;
+  margin: 0 auto;
+}
+
+.collage img {
+  display: block;
+  float: left;
+  width: auto;
+  padding: 0;
+  margin: 0 5px 5px 0;
+}
