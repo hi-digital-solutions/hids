@@ -57,7 +57,7 @@ def create_or_update_post(entry, author):
         details['title'] = re.sub(r':', ' - ', details['title'])
         filename = get_filename(details)
 
-        path = '../content/posts/{}'.format(filename)
+        path = '../content/blog/{}'.format(filename)
 
         with open(path, 'w') as post_file:
             post_file.write("---\n")
