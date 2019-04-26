@@ -1,9 +1,10 @@
 ---
 title: "About"
 date: 2019-04-26T11:01:38-04:00
+description: About HI Digital Solutions
 ---
 
-About HI Digital Solutions
+
 
 <div class=collage>
 <img src='/i/ada.jpg' />
