@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import json
 import re
 import feedparser
 from bs4 import BeautifulSoup
@@ -25,9 +24,6 @@ def create_or_update_post(entry, author):
         'date': '{:04d}-{:02d}-{:02d}T{:02d}:{:02d}:{:02d}-00:00'.format(*entry['published_parsed']),
         'author': author
     }
-
-    print(json.dumps(entry['published_parsed']))
-    print(json.dumps(details['date']))
 
     summary_maxlen = 255
     summary_only = True
@@ -79,8 +75,6 @@ def get_filename(details):
     file_name = '{}_{}'.format(date, details['title'])
     file_name = re.sub(r'[^a-zA-Z0-9]+', '_', file_name)
     file_name = re.sub(r'_+$', '', file_name)
-
-    print(json.dumps([details['date'], date]))
 
     return '{}.html'.format(file_name)
 
