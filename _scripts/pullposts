@@ -1,0 +1,89 @@
+#!/usr/bin/env python
+
+import re
+import feedparser
+from bs4 import BeautifulSoup
+
+FEEDS = [
+    {
+        'url': 'https://roub.net/feed/dev.xml',
+        'author': 'Paul Roub'
+    },
+    {
+        'url': 'https://notesfromthelifeboat.com/index.xml',
+        'author': 'Ian Firkin'
+    }
+]
+
+
+def create_or_update_post(entry, author):
+    details = {
+        'original_url': False,
+        'summary': entry['summary'],
+        'title': entry['title'],
+        'date': '{:04d}-{:02d}-{:02d}T{:02d}:{:02d}:{:02d}-{:02d}:00'.format(*entry['published_parsed']),
+        'author': author
+    }
+
+    summary_maxlen = 255
+    summary_only = True
+
+    content = format(entry['summary'])
+
+    if 'links' in entry and entry['links']:
+        details['original_url'] = entry['links'][0]['href']
+
+    if 'content' in entry and entry['content']:
+        if entry['content'][0]['value']:
+            content = entry['content'][0]['value']
+            summary_only = False
+
+    if summary_only:
+        details['partial'] = 'true'
+
+    if details['summary']:
+        soup = BeautifulSoup(details['summary'], 'html.parser')
+        details['summary'] = soup.get_text()
+
+    details['summary'] = re.sub(r'[ \t\n]+', ' ', details['summary'])
+    details['summary'] = re.sub(r':', ' - ', details['summary'])
+
+    if len(details['summary']) > summary_maxlen:
+        details['summary'] = details['summary'][0:summary_maxlen]
+        details['summary'] = re.sub(r' [^ ]+$', '', details['summary'])
+        details['summary'] = details['summary'] + '…'
+
+    if details['title']:
+        details['title'] = re.sub(r':', ' - ', details['title'])
+        filename = get_filename(details)
+
+        path = '../content/blog/{}'.format(filename)
+
+        with open(path, 'w') as post_file:
+            post_file.write("---\n")
+            for header in details:
+                post_file.write('{}: {}\n'.format(header, details[header]))
+            post_file.write("---\n")
+            post_file.write("\n")
+            post_file.write(content)
+
+        print(path)
+
+
+def get_filename(details):
+    date = re.sub(r'T.*$', '', details['date'])
+    file_name = '{}_{}'.format(date, details['title'])
+    file_name = re.sub(r'[^a-zA-Z0-9]+', '_', file_name)
+    file_name = re.sub(r'_+$', '', file_name)
+
+    return '{}.html'.format(file_name)
+
+
+for feedinfo in FEEDS:
+    url = feedinfo['url']
+    author = feedinfo['author']
+    print('Pulling blog posts from {} ({})'.format(url, author))
+    feed = feedparser.parse(url)
+
+    for post in feed['entries']:
+        create_or_update_post(post, author)
