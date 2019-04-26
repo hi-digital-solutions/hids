@@ -80,7 +80,10 @@ def get_filename(details):
 
 
 for feedinfo in FEEDS:
-    feed = feedparser.parse(feedinfo['url'])
+    url = feedinfo['url']
+    author = feedinfo['author']
+    print('Pulling blog posts from {} ({})'.format(url, author))
+    feed = feedparser.parse(url)
 
     for post in feed['entries']:
-        create_or_update_post(post, feedinfo['author'])
+        create_or_update_post(post, author)
