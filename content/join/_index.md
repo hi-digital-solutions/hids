@@ -1,7 +1,7 @@
 ---
 title: "Join the team"
 date: 2019-04-25T14:40:55-05:00
-draft: true
+draft: false
 ---
 
 We endeavor to be transparent and honest in all the activities we do at HI Digital Solutions.  There are no secrets in our hiring process.  The journey is simple and you only need to take the first step ...
