@@ -5,4 +5,4 @@ set -e
 cd _scripts
 ./pullposts
 cd ..
-hugo --gc --minify
+hugo serve
