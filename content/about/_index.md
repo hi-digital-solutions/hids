@@ -1,7 +1,7 @@
 ---
 title: "Our Story"
 date: 2019-03-06T15:30:57-05:00
-draft: true 
+draft: false 
 ---
 
 We are a subsidiary of [Home Instead Senior Care](www.homeinstead.com), one of the largest and most successful home-care companies in the world.  Digital Solutions grew out of a need to change the way software was developed and used at Home Instead, and a recognition that growing a healthy IT culture could happen more easily with a bit of space.  
