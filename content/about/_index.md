@@ -4,7 +4,7 @@ date: 2019-03-06T15:30:57-05:00
 draft: false 
 ---
 
-We are a subsidiary of [Home Instead Senior Care](www.homeinstead.com), one of the largest and most successful home-care companies in the world.  Digital Solutions grew out of a need to change the way software was developed and used at Home Instead, and a recognition that growing a healthy IT culture could happen more easily with a bit of space.  
+Digital Solutions is a subsidiary of [Home Instead Senior Care](www.homeinstead.com), one of the largest and most successful home-care companies in the world.  Our company grew out of a need to change the way software was developed and used at Home Instead, and a recognition that growing a healthy IT culture could happen more easily with a bit of space.  
  
 ## Partnership, not just Outsourcing
 For years, Home Instead relied on outsourced vendors for most of its IT needs.  In that time, they learned the same lesson that many other organizations have:  Outsourcing often fails to meet its goals, and it's easy for the incentives to get out of alignment.  Digital Solutions brings a partnership model to organizations we work with--we believe in setting up win-win engagements, and we define our success by the success of our partners.
