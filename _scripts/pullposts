@@ -21,7 +21,7 @@ def create_or_update_post(entry, author):
         'original_url': False,
         'summary': entry['summary'],
         'title': entry['title'],
-        'date': '{:04d}-{:02d}-{:02d}T{:02d}:{:02d}:{:02d}-{:02d}:00'.format(*entry['published_parsed']),
+        'date': '{:04d}-{:02d}-{:02d}T{:02d}:{:02d}:{:02d}-00:00'.format(*entry['published_parsed']),
         'author': author
     }
 
@@ -80,10 +80,10 @@ def get_filename(details):
 
 
 for feedinfo in FEEDS:
-    url = feedinfo['url']
-    author = feedinfo['author']
-    print('Pulling blog posts from {} ({})'.format(url, author))
-    feed = feedparser.parse(url)
+    feed_url = feedinfo['url']
+    feed_author = feedinfo['author']
+    print('Pulling blog posts from {} ({})'.format(feed_url, feed_author))
+    feed = feedparser.parse(feed_url)
 
     for post in feed['entries']:
-        create_or_update_post(post, author)
+        create_or_update_post(post, feed_author)

@@ -35,7 +35,7 @@ Serve the site locally:
 
 Blog posts are imported from feeds configured in `_scripts/pullposts`, and stored
 under `content/blog` as `*.html` for processing by Hugo.  These posts are ignored
-by git and re-created at every build.
+by git and re-created with every build.
 
 We can also create persistent, local-to-the-site blog posts in the same folder, by
 running:

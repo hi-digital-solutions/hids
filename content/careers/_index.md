@@ -9,7 +9,7 @@ HI Digital Solutions is a company with a social conscience. We’re an affiliate
 
 Our mission includes: helping to build a learning culture, applying modern engineering practices, and facilitating effective organizational design within our business.  We work closely with teammates having years of experience in senior care, collaborating to understand and drive outcomes for our company and our customers.  We understand that changing culture can be challenging, and we strive to meet people where they are, and to treat everyone with respect.
 
-We are a distributed company—our highly motivated, accountable, and talented people work from their home office, backyard, or wherever they are happiest.  We offer competitive salaries, full benefits, honor-system PTO, and a flexible schedule.
+We are a distributed company: our highly motivated, accountable, and talented people work from their home office, backyard, or wherever they are happiest.  We offer competitive salaries, full benefits, honor-system PTO, and a flexible schedule.
 
 ## How we work
 From a process perspective, we follow XP and Lean practices.  We recognize that quality is essential to flow, and we invest heavily in automated testing and deployment, infrastructure as code, and pairing or mobbing for our work.  We highly value collaboration, working closely with our partners to deliver small slices of value and drive out learning quickly and iteratively.
