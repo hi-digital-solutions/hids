@@ -24,3 +24,7 @@
 .policy section {
   text-align: left;
 }
+
+.footerline {
+  line-height: 1.25rem;
+}
