@@ -8,7 +8,7 @@
       {{ if .Site.Menus.main }}
         <ul class="pl0 mr3">
           {{ range .Site.Menus.main }}
-            {{ if ne .Name "Join the team"}}
+            {{ if ge .Weight 0 }}
             <li class="list f5 f4-ns fw4 dib pr3">
               <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
                 {{ if eq .Name "Blogs" }}

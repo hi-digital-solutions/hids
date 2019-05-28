@@ -1,5 +1,7 @@
 ---
 title: "Privacy Policy"
+body_classes: avenir bg-near-white policy
+weight: -1
 ---
 
 <!-- todo: remove from header -->
