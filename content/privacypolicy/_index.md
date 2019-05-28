@@ -4,9 +4,6 @@ body_classes: avenir bg-near-white policy
 weight: -1
 ---
 
-<!-- todo: remove from header -->
-
-
 ​​​For the U.S. Privacy Policy, click
 <a href="#us">here</a>.
 
