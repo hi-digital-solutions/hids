@@ -24,9 +24,8 @@ Your privacy is important and we are committed to protecting the personally iden
 
 **This Privacy Policy is subject to change.** If we make any material changes we will notify you by means of a notice on the Site prior to the change becoming effective. **We encourage you to review this Privacy Policy periodically and to make note of the date of the most recent revision. If you disagree with the manner in which we intend to use the Personal Information you provide to us, you may opt out of these uses by following the instructions below. By using our Site, you agree to the terms of the Privacy Policy in effect at that time and as may be updated from time to time.**
 
-If you have questions or complaints regarding our Privacy Policy or practices, please contact us at TK-ADDRESS,
-<a href="mailto:dataprivacy@hidigital.solutions">dataprivacy@hidigital.solutions</a>, or
-TK-PHONE.
+If you have questions or complaints regarding our Privacy Policy or practices, please contact us at
+{{< contact >}}
 
 ### Information We Collect
 
@@ -52,9 +51,7 @@ As is true of most websites, we gather certain information automatically and sto
 
 We use local storage ("LS") also referred to as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your web browsing activity use local storage to collect and store information. Various browsers may offer their own management tools for removing HTML5 LS.
 
-At any given time, we may partner with one or more third party advertisers, search providers and/or ad networks to either display advertising on our Site or to manage our advertising on other sites. Each such third party advertiser, search provider and ad network partner may use cookies and web beacons to collect non-personally identifiable information about your activities on the Site and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by contacting us at 13323 California Street, Omaha, NE 68154,
-<a href="mailto:dataprivacy@homeinsteadinc.com">dataprivacy@homeinsteadinc.com</a>, or
-1.888.484.5759. Please note that this does not opt you out of being served generic, non-targeted advertising. You will continue to receive generic, non-targeted ads.
+At any given time, we may partner with one or more third party advertisers, search providers and/or ad networks to either display advertising on our Site or to manage our advertising on other sites. Each such third party advertiser, search provider and ad network partner may use cookies and web beacons to collect non-personally identifiable information about your activities on the Site and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by contacting us at {{< contact >}}. Please note that this does not opt you out of being served generic, non-targeted advertising. You will continue to receive generic, non-targeted ads.
 
 #### 4. Use of Non-Personally Identifiable Information.
 
@@ -108,16 +105,14 @@ Your interactions with these Social Media Properties and/or the Features are gov
 
 ### Security
 To reduce the possibility of unauthorized access or disclosure, we have put in place a number of physical, electronic and managerial procedures to help protect the information we collect online. In addition, we use standard Secure Sockets Layer (SSL) certificates to secure all pages used for inputting users' Personal Information. However, due to the open communication nature of the Internet, no system can be completely secure and we cannot guarantee the security of your Personal Information.
+
 ### California Do Not Track Disclosure
 Do Not Track is a web browser privacy preference that causes the web browser to broadcast a signal to websites requesting the user's activity that such activity will not be tracked.  HI Digital Solutions's Site does not respond to Do Not Track signals.
 
 ### Opt-Out
 You may choose to have your name taken off of our registration list, cease receiving correspondence or newsletters from us, limit our sharing of Personal Information with third parties who may offer services to you, or update or delete the Personal Information that you have provided to us via one of the following methods:
 
-- Using the opt-out option in any e-mails or text messages you receive from us;
-- Sending us an e-mail at <a href="mailto:dataprivacy@hidigital.solutions">dataprivacy@hidigital.solutions</a>;
-- Writing to us at: TK-ADDRESS; or
-- Calling us toll free at: TK-PHONE
+{{< contactoptions >}}
 
 We will respond to your request within 10 days.
 
@@ -153,11 +148,7 @@ HI Digital Solutions may transfer Personal Information to companies that help us
 ### Contact Information
 If ​​​you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact:
 
-**TK-ADDRESS**  
-<a href="mailto:dataprivacy@hidigital.solutions">dataprivacy@hidigital.solutions</a>  
-TK-PHONE
-
-
+{{< contact >}}
 
 <a name=can></a>
 
@@ -173,9 +164,7 @@ Your privacy is important and we are committed to protecting the personally iden
 **This Privacy Policy is subject to change.** If we make any material changes we will notify you by means of a notice on the Site prior to the change becoming effective.
 **We encourage you to review this Privacy Policy periodically and to make note of the date of the most recent revision. If you disagree with the manner in which we intend to use the Personal Information you provide to us, you may opt out of these uses by following the instructions below. By using our Site, you agree to the terms of the Privacy Policy in effect at that time and as may be updated from time to time.**
 
-If you have questions or complaints regarding our Privacy Policy or practices, please contact us at TK-ADDRESS,
-<a href="mailto:dataprivacy@hidigital.solutions">dataprivacy@hidigital.solutions</a>, or
-TK-PHONE.
+If you have questions or complaints regarding our Privacy Policy or practices, please contact us at {{< contact >}}
 
 ### Information We Collect
 We collect both Personal Information and non-personally identifiable information through the Site in order to help us to learn more about how our visitors use the Site, to measure areas of interest, and to provide our users with important information on our services. Collection of information allows us to build features and functionality that will enhance your experience. You are not obligated to provide us with Personal Information in order to use the Site. However, we do require that you register and provide certain Personal Information in order to send us inquiries, to receive newsletters and other special offers. We collect non-personally identifiable information through the use of General Tracking Information and Click Path Tracking (cookie technology) described below.
@@ -200,9 +189,7 @@ We collect both Personal Information and non-personally identifiable information
 
     We use local storage ("LS") also referred to as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your web browsing activity use local storage to collect and store information. Various browsers may offer their own management tools for removing HTML5 LS.
 
-    At any given time, we may partner with one or more third party advertisers, search providers and/or ad networks to either display advertising on our Site or to manage our advertising on other sites. Each such third party advertiser, search provider and ad network partner may use cookies and web beacons to collect non-personally identifiable information about your activities on the Site and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by contacting us at TK-ADDRESS,
-    <a href="mailto:dataprivacy@hidigital.solutions">dataprivacy@hidigital.solutions</a>, or
-    TK-PHONE. Please note that this does not opt you out of being served generic, non-targeted advertising. You will continue to receive generic ads.
+    At any given time, we may partner with one or more third party advertisers, search providers and/or ad networks to either display advertising on our Site or to manage our advertising on other sites. Each such third party advertiser, search provider and ad network partner may use cookies and web beacons to collect non-personally identifiable information about your activities on the Site and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by contacting us at {{< contact >}}. Please note that this does not opt you out of being served generic, non-targeted advertising. You will continue to receive generic ads.
 
 
 4. **Use of Non-Personally Identifiable Information**
@@ -260,11 +247,7 @@ HI Digital Solutions has designated an individual as the person who is accountab
 ### Opt-Out
 You may choose to have your name taken off of our registration list, cease receiving correspondence or newsletters from us, limit our sharing of Personal Information with third parties who may offer services to you, or update or delete the Personal Information that you have provided to us via one of the following methods:
 
-- Using the opt-out option in any e-mails or text messages you receive from us;
-- Sending us an e-mail at:
-<a href="mailto:dataprivacy@hidigital.solutions">dataprivacy@hidigital.solutions</a>;
-- Writing to us at: TK-ADDRESS; or
-- Calling us toll free at: TK-PHONE
+{{< contactoptions >}}
 
 We will respond to your request within 10 days.
 
@@ -301,6 +284,4 @@ HI Digital Solutions may transfer Personal Information to service providers that
 ### Contact Information
 If ​​​you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact:
 
-**TK-ADDRESS**  
-<a href="mailto:dataprivacy@homeinsteadinc.com">dataprivacy@homeinsteadinc.com</a>  
-TK-PHONE
+{{< contact >}}
