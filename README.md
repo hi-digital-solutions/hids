@@ -45,3 +45,7 @@ hugo new blog/my-blog-title.md
 ```
 
 and writing in Markdown. These files must be committed to become part of the site.
+
+## Contact us Page
+
+The current theme that is used has a [shortcode](https://themes.gohugo.io/gohugo-theme-ananke/#activate-the-contact-form) that easily allows for form submission from the static site.  [Formspree](https://formspree.io/) is used to collect and email the forms to contact@hidigital.solutions.
