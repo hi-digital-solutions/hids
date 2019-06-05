@@ -19,3 +19,12 @@
   padding: 0;
   margin: 0 5px 5px 0;
 }
+
+
+.policy section {
+  text-align: left;
+}
+
+.footerline {
+  line-height: 1.25rem;
+}
