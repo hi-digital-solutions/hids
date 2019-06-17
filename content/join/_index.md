@@ -6,7 +6,7 @@ weight: -1
 We endeavor to be transparent and honest in all the activities we do at HI Digital Solutions, and there are no secrets in our hiring process.  We know that changing jobs can be stressful, and we strive to provide fast, constructive feedback every step of the way.
 
 ## Apply
-[Email](mailto:careers@hidigitalsolutionsllc.com) your resume and cover letter
+[Email](mailto:careers@hidigital.solutions) your resume and cover letter
 
 ## Program
 When we contact you we'll ask you to complete a simple coding problem in [cyber-dojo](https://cyber-dojo.org/) so we can see how you test drive your code.
