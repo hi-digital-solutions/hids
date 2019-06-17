@@ -28,3 +28,7 @@
 .footerline {
   line-height: 1.25rem;
 }
+
+.tc-l ul {
+  text-align: left;
+}
