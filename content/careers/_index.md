@@ -34,7 +34,8 @@ In addition to a competitive salary and the flexibility of a distributed team, w
 * 401(k) Savings Plan
 * ~6 weeks PTO including holidays
 * Profit Sharing
-* What we're looking for
+
+## What we're looking for
 
 Are you familiar with the work of folks like Dr. Nicole Forsgren, Jez Humble, Gene Kim, Mike Rother and Dr. Eli Goldratt? Do you want to work in small, collaborative teams, using TDD and continuous delivery? Are you interested in partnering with organizations to help achieve business goals, not just deliver software? If so, we want to hear from you!
 
