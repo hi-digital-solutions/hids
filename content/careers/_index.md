@@ -1,7 +1,7 @@
 ---
 title: "Careers"
-date: 2019-03-06T15:30:57-05:00
-draft: false
+description: "Do you want to work in small, collaborative teams, using TDD and continuous delivery? Are you interested in partnering with organizations to help achieve business goals, not just deliver software? If so, we want to hear from you!"
+hideDescription: true 
 ---
 
 ## Who we are
