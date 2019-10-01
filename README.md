@@ -12,16 +12,6 @@ Install hugo (Mac):
 brew install hugo
 ```
 
-Create a Python virtual environment and install from requirements.txt (needed
-for the blog import to function):
-
-```sh
-python3 -m venv .venv/hids-site
-. .venv/hids-site/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
-```
-
 ## Testing
 
 Serve the site locally:
@@ -33,18 +23,19 @@ Serve the site locally:
 
 ## Blogs
 
-Blog posts are imported from feeds configured in `_scripts/pullposts`, and stored
-under `content/blog` as `*.html` for processing by Hugo.  These posts are ignored
-by git and re-created with every build.
+Blog posts are added by adding markdown or HTML files with suitable front matter to the `content/blogs` folder. The filename will be used as the URL slug, so it should be readable (ideally the post's title, lowercase, with spaces replaced by dashes).
 
-We can also create persistent, local-to-the-site blog posts in the same folder, by
-running:
+*e.g.* a file titled `my-first-post.md` containing:
 
-```sh
-hugo new blog/my-blog-title.md
 ```
+---
+title: "My First Post"
+author: "Some Guy"
+date: 2019-10-01T12:16:57-04:00
+---
 
-and writing in Markdown. These files must be committed to become part of the site.
+Your content goes here...
+```
 
 ## Contact us Page
 
