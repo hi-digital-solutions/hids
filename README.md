@@ -23,6 +23,8 @@ Serve the site locally:
 
 ## Blogs
 
+### Format
+
 Blog posts are added by adding markdown or HTML files with suitable [front matter][frontmatter] to the `content/blog` folder. The filename will be used as the URL slug, so it should be readable (ideally the post's title, lowercase, with spaces replaced by dashes).
 
 *e.g.* a file titled `my-first-post.md` containing:
@@ -37,6 +39,8 @@ date: 2019-10-01T12:16:57-04:00
 Your content goes here...
 ```
 
+### Generating and publishing a Blog Post File
+
 To make life easier, you can run the `newpost.sh` script and pass it a title and author. It will create a dummy post, with correct front matter and placeholder text, as above. *e.g.*:
 
 ```sh
@@ -44,6 +48,14 @@ To make life easier, you can run the `newpost.sh` script and pass it a title and
 ```
 
 To actually *publish* the post to the web site, commit/merge to master and push to Github. Within a few minutes, Netlify will re-publish the site.
+
+### Content notes
+
+The site generator will automatically excerpt your post using the first few sentences of content, so:
+
+- Don't lead off with a title (the title from the front matter will be displayed anyway)
+- Try to lead with an actual summary, or something that would make sense and be interesting to a reader
+- Be sure to preview the excerpt on the `/blog/` page before publishing
 
 ## Contact us Page
 
