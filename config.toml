@@ -13,6 +13,8 @@ googleAnalytics = ""
 enableRobotsTXT = true
 PygmentsCodeFences = true
 
+ignoreFiles = ["\\.sh$"]
+
 [params]
   favicon = ""
   description = "Simple solutions to complex problems"
