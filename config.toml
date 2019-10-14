@@ -2,6 +2,7 @@ baseURL = "https://www.hidigital.solutions/"
 languageCode = "en-us"
 title = "HI Digital Solutions, LLC"
 theme = "ananke"
+googleAnalytics = "UA-149937692-1"
 
 sectionPagesMenu = "main"
 
