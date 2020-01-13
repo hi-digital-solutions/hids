@@ -11,9 +11,9 @@
 .author-credit a:link,
 .author-credit a:visited,
 .author-credit a:active {
-  text-decoration: none;
   color: inherit;
   font-weight: 600;
+  text-decoration: none;
 }
 
 .author-credit a:hover {
