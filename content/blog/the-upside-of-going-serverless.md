@@ -1,6 +1,7 @@
 ---
 title: "The Upside of Going Serverless"
 author: "Paul Roub"
+author-url: https://roub.net/
 date: 2019-10-15
 ---
 
@@ -10,7 +11,7 @@ I'm here to suggest that serverless is different, and that you listen to the dev
 
 Serverless is just as much a financial change as it is technical;  the innovation is that you only pay for what you use, and the bits that aren’t directly relevant to solving your business problem are outsourced to your cloud provider.  This results in significant savings — in both upkeep and operational costs, as well as the cost of development and deployment.
 
-Over the past few years, we’ve helped clients migrate from more traditional infrastructure to serverless, and we’ve seen some great wins; this post outlines a few of our experiences.  
+Over the past few years, we’ve helped clients migrate from more traditional infrastructure to serverless, and we’ve seen some great wins; this post outlines a few of our experiences.
 
 
 ## One Example
@@ -48,7 +49,7 @@ The function apps — also backed up, tied in to Azure, etc. — scale o
 
 ## Development and Deployment
 
-In both cases, we're writing and testing locally, using TDD and BDD tools along the way. 
+In both cases, we're writing and testing locally, using TDD and BDD tools along the way.
 
 But the deployment story is different: on the older system, there are firewalls to configure; in some cases, URLs to expose (along with the associated DNS updates), and so on.
 
@@ -56,7 +57,7 @@ We deploy the newer functions to Azure, and immediately have a known, consistent
 
 You don’t _have_ to run multiple services on a single VM, but it’s extremely common to do so. Why? Cost and utilization. You’re paying a fixed amount (or at least a minimum) for that server and its capacity, whether you’re using it or not. This creates a strong incentive to use as much of that capacity as you can, and maximize ROI. Now you have a variety of services with different, sometimes conflicting requirements, all of which must be balanced against each other and against the requirements of the host operating system (which must, itself, be updated and maintained, possibly affecting one or more services running on the machine).
 
-In the serverless world, the incentives run the other way -- each instance is simple, self-contained, and has few to no inherent conflicts. 
+In the serverless world, the incentives run the other way -- each instance is simple, self-contained, and has few to no inherent conflicts.
 
 
 ## Nothing to see here

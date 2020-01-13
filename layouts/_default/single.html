@@ -12,7 +12,14 @@
         {{- .Title -}}
       </h1>
       {{ if isset .Params "author" }}
-        <p class=author-credit>by {{ index .Params "author" }}</p>
+
+        <p class=author-credit>by
+          {{ if isset .Params "author-url" }}
+            <a href="{{ index .Params "author-url" }}">{{ index .Params "author" }}</a>
+          {{ else }}
+            {{ index .Params "author" }}
+          {{ end }}
+        </p>
       {{ end }}
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
       <time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
