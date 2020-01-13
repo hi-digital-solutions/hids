@@ -7,6 +7,20 @@
   margin: 0 0 .25em;
 }
 
+.author-credit a,
+.author-credit a:link,
+.author-credit a:visited,
+.author-credit a:active {
+  color: inherit;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.author-credit a:hover {
+  text-decoration: underline;
+  text-decoration-color: #00F;
+}
+
 .collage {
   max-width: 915px;
   margin: 0 auto;
@@ -39,7 +53,7 @@
   body {
     padding-bottom: 100px;
   }
-  
+
   footer {
     position: fixed;
     bottom: 0;
