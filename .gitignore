@@ -3,3 +3,6 @@
 .DS_Store
 content/blog/*.html
 resources
+
+# Local Netlify folder
+.netlify
