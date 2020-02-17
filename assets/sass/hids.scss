@@ -71,7 +71,7 @@ $link-underline-color: #00f;
 
 // media block - ties an image to its description in a responsive, standard way
 
-$body-bg: #fff:
+$body-bg: #fff;
 $body-fg: #000;
 $ps-bg: lighten($body-fg, 25%);
 $ps-fg: darken($body-bg, 25%);
@@ -100,7 +100,7 @@ $ps-fg: darken($body-bg, 25%);
       &:link,
       &:visited,
       &:active {
-        color: $psfg;
+        color: $ps-fg;
         text-decoration: none;
       }
 
