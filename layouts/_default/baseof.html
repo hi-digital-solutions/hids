@@ -23,6 +23,12 @@
       <link rel="stylesheet" href="{{ relURL ($.Site.BaseURL) }}{{ . }}">
     {{ end }}
 
+    {{ range .Site.Params.custom_scss }}
+      {{ $sass := resources.Get . }}
+      {{ $style := $sass | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+      <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{ end }}
+
     {{ block "favicon" . }}
       {{ partialCached "site-favicon.html" . }}
     {{ end }}
@@ -33,7 +39,7 @@
       <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
       {{ end }}
     {{ end }}
-    
+
     {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
     {{- template "_internal/opengraph.html" . -}}
     {{- template "_internal/schema.html" . -}}

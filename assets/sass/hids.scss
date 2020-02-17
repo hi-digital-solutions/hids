@@ -1,0 +1,120 @@
+$link-underline-color: #00f;
+
+.measure-wide {
+  max-width: 55em;
+}
+
+.author-credit {
+  font-size: inherit;
+  margin: 0 0 .25em;
+
+  a {
+    &,
+    &:link,
+    &:visited,
+    &:active {
+      color: inherit;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    &:hover {
+      text-decoration: underline;
+      text-decoration-color: $link-underline-color;
+    }
+  }
+}
+
+.collage {
+  margin: 0 auto;
+  max-width: 915px;
+
+  img {
+    display: block;
+    float: left;
+    margin: 0 5px 5px 0;
+    padding: 0;
+    width: auto;
+  }
+}
+
+.policy {
+  section {
+    text-align: left;
+  }
+}
+
+.footerline {
+  line-height: 1.25rem;
+}
+
+.tc-l {
+  ul {
+    text-align: left;
+  }
+}
+
+// on wider-than-mobile screens, move the footer to a fixed position and leave room at the bottom of the body
+
+@media screen and (min-width: 33rem) {
+  body {
+    padding-bottom: 100px;
+  }
+
+  footer {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+  }
+}
+
+// media block - ties an image to its description in a responsive, standard way
+
+$body-bg: #fff:
+$body-fg: #000;
+$ps-bg: lighten($body-fg, 25%);
+$ps-fg: darken($body-bg, 25%);
+
+
+.pluralsight-block {
+  margin: 1em auto;
+  max-width: 960px;
+  width: 100%;
+
+  .img {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  .desc {
+    background-color: $ps-bg;
+    color: $ps-fg;
+    margin: 0;
+    padding: .5em;
+
+    a {
+      &,
+      &:link,
+      &:visited,
+      &:active {
+        color: $psfg;
+        text-decoration: none;
+      }
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  @media screen and (min-width: 60rem) {
+    display: flex;
+
+    .img {
+      max-width: 50%;
+    }
+  }
+}

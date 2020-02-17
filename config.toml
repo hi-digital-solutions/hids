@@ -28,4 +28,10 @@ ignoreFiles = ["\\.sh$"]
 
 # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  custom_css = ["css/hids.css"]
+  custom_scss = ["sass/hids.scss"]
+
+# "unsafe" means "allow embedded HTML, per the markdown spec". This is a badly-named option.
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
