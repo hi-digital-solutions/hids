@@ -110,4 +110,7 @@ Oh, and if you want to watch me blather about TDD? Thanks to [Pluralsight][plura
 [xkcd]: https://imgs.xkcd.com/comics/duty_calls.png
 [codemashpres]: https://www.pluralsight.com/authors/codemash-conference
 [pluralsight]: https://pluralsight.com/
+[occ]: https://orlandocodecamp.com/
+[utr]: https://www.relay.fm/radar/172
+
 [^1]: Actually, I submitted abstracts for *three* talks. I'm so grateful only this one was chosen - the other ideas weren't nearly as strong, and in retrospect, writing more than one *new* talk in that amount of time would not have ended well. These CodeMash folks know their stuff.
