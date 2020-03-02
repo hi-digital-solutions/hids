@@ -33,12 +33,13 @@ h4 {
 }
 
 img.scrapbook {
-  max-width: 100%;
+  max-width: 300px;
   border: 2px solid #CCC;
+  margin: .5em auto;
 
-  @media screen and (min-width: 33rem) {
+  @media screen and (min-width: 600px) {
     float: right;
-    max-width: 300px;
+    margin: .5em 0 .5em 1em;
   }
 }
 

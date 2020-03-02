@@ -26,7 +26,7 @@
     {{ range .Site.Params.custom_scss }}
       {{ $sass := resources.Get . }}
       {{ $style := $sass | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-      <link rel="stylesheet" href="{{ $style.Permalink | relURL }}">
+      <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     {{ end }}
 
     {{ block "favicon" . }}
