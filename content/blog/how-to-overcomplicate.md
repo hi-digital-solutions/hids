@@ -109,7 +109,7 @@ I was able to add a night and re-book for the following morning’s flight, but 
 <picture>
   <source type="image/webp" srcset="/images/testbed-1x.webp, /images/testbed.webp 2x">
   <source type="image/jpeg" srcset="/images/testbed-1x.jpg, /images/testbed.jpg 2x">
-  <img class=scrapbook src=/images/testbed.jpg alt="Precarious presentation test setup" />
+  <img class=scrapbook src=/images/testbed-1x.jpg alt="Precarious presentation test setup" />
 </picture>
 
 To get a feel for the slides on a big-ish screen, separate from the laptop, I HDMI-ed my way into the hotel TV and rigged a podium.
@@ -129,7 +129,7 @@ Oh, about that guitar. While I borrowed the host’s for the actual performance,
 <picture>
   <source type="image/webp" srcset="/images/epi-1x.webp, /images/epi.webp 2x">
   <source type="image/jpeg" srcset="/images/epi-1x.jpg, /images/epi.jpg 2x">
-  <img class=scrapbook src=/images/epi.jpg alt="Epi Classical Guitar" />
+  <img class=scrapbook src=/images/epi-1x.jpg alt="Epi Classical Guitar" />
 </picture>
 
 The little old Epi stayed in tune, played easily, and sounded fine. Basically an $8-a-day rental.
@@ -175,7 +175,11 @@ Think you have a talk to give? Write it up. Submit it. Rejection is survivable, 
 Oh, and if you want to watch the actual talk, [Pluralsight](https://pluralsight.com/) and CodeMash have made all this year’s talks available for free, [here](https://www.pluralsight.com/authors/codemash-conference), including this one:
 
 <div class="pluralsight-block">
-  <a class=img href="https://www.pluralsight.com/courses/codemash-session-87"><img src="https://pluralsight.imgix.net/course-images/codemash-session-87-v1.jpg" alt="CodeMash: Paul Roub : Test-driven Development: Save Your Time, Save Your Sanity, Write Great Code Fast"></a>
+  <a class=img href="https://www.pluralsight.com/courses/codemash-session-87"><picture>
+    <source type="image/webp" srcset="/images/cmsesh-1x.webp, /images/cmsesh.webp 2x">
+    <source type="image/jpeg" srcset="/images/cmsesh-1x.jpg, /images/cmsesh.jpg 2x">
+    <img src="/images/cmsesh-1x.jpg" alt="CodeMash: Paul Roub : Test-driven Development: Save Your Time, Save Your Sanity, Write Great Code Fast">
+  </picture></a>
   <div class=desc>
     <h3><a href="https://www.pluralsight.com/courses/codemash-session-87">Test-driven Development: Save Your Time, Save Your Sanity, Write Great Code Fast</a></h3>
     <p>Paul Roub at CodeMash 2020</p>
