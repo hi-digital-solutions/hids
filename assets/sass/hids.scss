@@ -1,4 +1,9 @@
 $link-underline-color: #00f;
+$max-front-page-width: 55em;
+$body-bg: #fff;
+$body-fg: #000;
+$pluralsight-bg: lighten($body-fg, 25%);
+$pluralsight-fg: darken($body-bg, 25%);
 
 h1,
 h2,
@@ -8,7 +13,7 @@ h4 {
 }
 
 .measure-wide {
-  max-width: 55em;
+  max-width: $max-front-page-width;
 }
 
 .author-credit {
@@ -40,19 +45,6 @@ img.scrapbook {
   @media screen and (min-width: 600px) {
     float: right;
     margin: .5em 0 .5em 1em;
-  }
-}
-
-.collage {
-  margin: 0 auto;
-  max-width: 915px;
-
-  img {
-    display: block;
-    float: left;
-    margin: 0 5px 5px 0;
-    padding: 0;
-    width: auto;
   }
 }
 
@@ -89,12 +81,6 @@ img.scrapbook {
 
 // media block - ties an image to its description in a responsive, standard way
 
-$body-bg: #fff;
-$body-fg: #000;
-$ps-bg: lighten($body-fg, 25%);
-$ps-fg: darken($body-bg, 25%);
-
-
 .pluralsight-block {
   margin: 1em auto;
   max-width: 960px;
@@ -108,8 +94,8 @@ $ps-fg: darken($body-bg, 25%);
   }
 
   .desc {
-    background-color: $ps-bg;
-    color: $ps-fg;
+    background-color: $pluralsight-bg;
+    color: $pluralsight-fg;
     margin: 0;
     padding: .5em;
 
@@ -118,7 +104,7 @@ $ps-fg: darken($body-bg, 25%);
       &:link,
       &:visited,
       &:active {
-        color: $ps-fg;
+        color: $pluralsight-fg;
         text-decoration: none;
       }
 
