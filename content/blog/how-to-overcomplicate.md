@@ -106,13 +106,15 @@ I was able to add a night and re-book for the following morning’s flight, but 
 
 ### MacGyver-ing a Test Setup
 
-<img class=scrapbook src=/images/testbed.jpg alt="Precarious presentation test setup" />
+<picture>
+  <source type="image/webp" srcset="/images/testbed-1x.webp, /images/testbed.webp 2x">
+  <source type="image/jpeg" srcset="/images/testbed-1x.jpg, /images/testbed.jpg 2x">
+  <img class=scrapbook src=/images/testbed.jpg alt="Precarious presentation test setup" />
+</picture>
 
 To get a feel for the slides on a big-ish screen, separate from the laptop, I HDMI-ed my way into the hotel TV and rigged a podium.
 
 As one does.
-
-
 
 ### Venturing Out and Making Music
 
@@ -124,7 +126,11 @@ So I got in touch with the gentleman who runs a songwriters’ night at a Clevel
 
 Oh, about that guitar. While I borrowed the host’s for the actual performance, I wanted to have one in the hotel room. 5 days is a long stretch to be without, after a lifetime of habitual noodling. Traveling with a guitar is expensive and risky, so I rolled the dice and visited a pawn shop halfway between the airport and the hotel.
 
-<img class=scrapbook src=/images/epi.jpg alt="Epi Classical Guitar" />
+<picture>
+  <source type="image/webp" srcset="/images/epi-1x.webp, /images/epi.webp 2x">
+  <source type="image/jpeg" srcset="/images/epi-1x.jpg, /images/epi.jpg 2x">
+  <img class=scrapbook src=/images/epi.jpg alt="Epi Classical Guitar" />
+</picture>
 
 The little old Epi stayed in tune, played easily, and sounded fine. Basically an $8-a-day rental.
 
