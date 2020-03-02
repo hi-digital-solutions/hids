@@ -1,5 +1,12 @@
 $link-underline-color: #00f;
 
+h1,
+h2,
+h3,
+h4 {
+  clear: both;
+}
+
 .measure-wide {
   max-width: 55em;
 }
@@ -26,8 +33,13 @@ $link-underline-color: #00f;
 }
 
 img.scrapbook {
-  max-width: 600px;
+  max-width: 100%;
   border: 2px solid #CCC;
+
+  @media screen and (min-width: 33rem) {
+    float: right;
+    max-width: 300px;
+  }
 }
 
 .collage {
