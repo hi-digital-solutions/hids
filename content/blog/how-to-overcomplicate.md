@@ -152,7 +152,7 @@ These concerns ended up fading away due, I think, to a number of factors:
 
 I’m already keeping a list of possible topics to submit _next_ year, and I’m watching for other Calls For Proposals along the way.
 
-## The takeaways
+## The Takeaways
 
 I went about this somewhat instinctively. Some of those instincts served me well. Others, hopefully, will be tempered next time. If I had to do this again, I would apply:
 
