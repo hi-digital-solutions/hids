@@ -2,4 +2,5 @@
 
 set -e
 
+hugo version
 hugo --gc --minify
