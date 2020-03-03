@@ -51,6 +51,11 @@ cat <<EOT > "${filename}"
 title: "${post_title}"
 author: "${post_author}"
 date: ${datestr}
+summary: Include summary text here, or remove this line to have the summary auto-extracted (guessed) based on your post content.
+# If your post includes a representative image, uncomment the following lines include its relative URL below. That image will be
+# used when sharing the post to social media. Keep the extra indentation on the - line
+# images:
+#   - /images/something-or-other.jpg
 ---
 
 Your content goes here...
