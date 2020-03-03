@@ -4,6 +4,8 @@ author: "Paul Roub"
 author-url: https://roub.net/
 date: 2020-03-02
 summary: In January 2020, I was lucky enough to be selected as a speaker at CodeMash, an annual software development conference in Sandusky, OH.  This was my first time speaking at a conference, so I made things up as I went along. Some things were easier than I expected, some were harder, and some were simply unexpected.
+images:
+ - /images/testbed-hero.jpg
 ---
 
 In January 2020, I was lucky enough to be selected as a speaker at [CodeMash](https://codemash.org/), an annual software development conference in Sandusky, OH. It is a _fantastic_ event which I would highly recommend to anyone.
