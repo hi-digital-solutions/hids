@@ -247,5 +247,3 @@ There are a few things we could have done around the CI piece to improve our per
 Is it reasonable to expect replacing the entire database layer of an application to take about a month?  There’s a lot that goes into that, but I think a lot of projects and companies would be excited about that performance.  For our project and our work style, we were kind of disappointed by how long it took.  The expectation of speed, combined with initial quick success, may have led us to overlook that hidden CI work.  Maybe, just maybe, the expectations were as much of a snare for us as anything else was.
 
 Some tasks are just plain large, even when sliced as small as reasonable.  That said, if you have ideas of how we might have sliced this task differently to improve our ability to deliver value, [all of DS would love to hear it](https://twitter.com/hids0).
-
-(Thanks to Ian Firkin, Paul Roub, and Dustin Roszell for their input on drafts of this post.)
