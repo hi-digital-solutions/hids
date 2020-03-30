@@ -1,7 +1,8 @@
 ---
 title: "Retrospective on a Database Replacement"
 author: "Matt Schouten"
-date: 2020-03-31
+date: 2020-04-06
+draft: true
 summary: "Swapping out the database layer of an application is rarely easy.  It’s even less easy when you’re also changing the storage paradigm (say, from a document database to a relational database).  It’s even less easy when you run into peripheral snags.  This post is a retrospective on one team's adventures in swapping out the database layer of an application, including several lessons learned."
 
 ---
