@@ -1,0 +1,35 @@
+{
+  "name": "hids",
+  "version": "1.0.0",
+  "description": "Clone recursively to include the theme submodule:",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "remark-cli": "^7.0.1",
+    "remark-lint": "^6.0.5",
+    "remark-preset-lint-recommended": "^3.0.3",
+    "sass-lint": "^1.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint-md": "remark ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi-digital-solutions/hids.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi-digital-solutions/hids/issues"
+  },
+  "homepage": "https://github.com/hi-digital-solutions/hids#readme",
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended"
+    ],
+    "settings": {
+      "footnotes": true
+    }
+  }
+}
