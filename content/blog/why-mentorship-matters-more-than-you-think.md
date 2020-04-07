@@ -14,7 +14,7 @@ character's fates played out. While I mention these characters in jest,
 there is a valuable lesson to be learned from the authors who dreamt
 them up. I mean, seriously, can you imagine Robin taking off and
 fighting crime without Batman? Or how much more time it would have taken
-for Luke Skywalker to use the "Force" without master Yoda. I think you
+for Luke Skywalker to use the Force without master Yoda. I think you
 see where I am going with this. As much as I would love to delve into
 the specifics of each duo, we will have to save that for another time!
 Instead, this is meant to be a discussion of why baking mentorship into
@@ -39,14 +39,14 @@ front-end GIS Developer.
 During that two year transition from analyst to developer with my former
 employer, I was lucky enough to have had a mentor that was my biggest
 fan and cheerleader. However, we lacked the main ingredient for a
-successful mentor/mentee relationship; time. I was not getting up to
-speed as a developer as quickly as I or my supervisors would have liked.
+successful mentor/mentee relationship: time. I was not getting up to
+speed as a developer as quickly as I — or my supervisors — would have liked.
 Regardless of the lip service that our leadership team paid to
 mentorship, I was never able to get the kind of mentoring that would
 have truly helped me build the skills I needed for short term success,
 let alone long term success. In that case the biggest barrier was that
 each person on our team was so strictly and tightly coupled to billable
-hours on various projects, there was little to no time alloted for
+hours on various projects, there was little to no time allotted for
 practical mentorship. Did my former employer offer training hours? Sure.
 However, being allocated a small bucket of training hours was not nearly
 as helpful without being able to identify "what" I should have been
@@ -67,14 +67,14 @@ feedback early enough, I began to experience regret in my new role. In
 hindsight, I did not realize I needed to ask for help, because I thought
 my experience was "normal" and expected. After about eight wearying
 months in my newly acquired role, I left that organization and decided
-to join HI Digital Solutions.
+to join H.I. Digital Solutions (DS).
 
 The Unsung Praises of Strong Style Pair-Programming
 ---------------------------------------------------
 
-#### Mentorship by Navigating
+### Mentorship by Navigating
 
-"Strong-style" pairing programming is simple and an extremely useful
+"Strong-style" pair programming is simple and an extremely useful
 mentorship tool. This programming approach consists of having one person
 writing code (the driver) while the other person has the high-level
 control over what code should be written. The key is that the person
@@ -83,19 +83,19 @@ such a way that the code must be written together. I have both been the
 "driver" and the "navigator" in these scenarios. While I was very
 nervous about navigating at first, my seniors showed confidence in my
 ability to contribute by coaching me through it. In our version of
-strong-style pair programming, I was the driver, one of my teammates
+strong-style pair programming, I was the driver; one of my teammates
 would act as my coach and the other wrote the code. This worked
 perfectly, because it ensured that we as a team were able to move
 forward together but also would minimize having too much awkward
 silence, if I was having trouble seeing the next step. Whether they
 recognize it or not, I do feel more confident in my ability to
 communicate abstractly. Sometimes I am wrong in my approach and that is
-equally worth discussing to learn where improvement is needed. However,
-them giving me a chance instead of just rushing ahead while I just sat
-back trying my best to keep up, helped me become a better communicator
+equally worth discussing to learn where improvement is needed. But
+their giving me a chance — instead of just rushing ahead while I sat
+back trying to keep up — helped me become a better communicator
 while sharpening my abstract thinking skills.
 
-#### Mentorship by Driving
+### Mentorship by Driving
 
 Being early in a career, getting feedback about what is idiomatic, what
 is stylistic and other best coding practices has revolutionized the way
@@ -126,7 +126,7 @@ it there for now.
 Feedback
 --------
 
-#### One-on-Ones
+### One-on-Ones
 
 The best experience I have had at DS has been around the very early
 one-on-one meeting interactions with the two members of my team. As
@@ -134,15 +134,15 @@ mentioned in my background story, the issue of knowing what I needed to
 learn next was always in the forefront of my mind. I was very exhausted.
 I was constantly trying to devise a strategy for how to get better
 without really knowing if what I was learning was necessary or relevant.
-The opposite of that, became true when I joined DS. Having the time set
+The opposite of that became true when I joined DS. Having the time set
 aside in the first three weeks of being onboarded to look at my personal
 development goals; to address how I viewed my contribution to the team;
 and to have candid discussion about my performance and other team
 dynamics, removed the mystery around whether or not I was on the right
 path. Not only did the first one-on-one give me solid feedback on what I
 was doing well but it also highlighted the areas that needed attention
-in a constructive way. Having had the opportunity to be mentored daily,
-made the feedback so easy to recieve.
+in a constructive way. Having had the opportunity to be mentored daily
+made the feedback so easy to receive.
 
 Finally, the most impactful thing that my colleagues make is a point to
 ask me for feedback as well. Not only is there room made for discussion
@@ -155,7 +155,7 @@ that need improvement. The mentorship I have received from my seniors
 has been dolled out with humility and has given me a sense of how
 important it is that we move forward as a team.
 
-#### Consequences of being candid
+### Consequences of being candid
 
 Mentorship opens up the communication gateways for candidness that can
 lead to needed changes quicker; to the benefit of all parties. For
@@ -184,7 +184,7 @@ making a point to stick to them, and asking for feedback from my team,
 the opportunity for improvement has been acknowledged and the issue
 solved.
 
-#### Building skill incrementally
+### Building skill incrementally
 
 Similar to constructive criticism, getting positive feedback early on
 has been very advantageous. I have observed that my own estimates,
@@ -212,7 +212,7 @@ The nature of our work involves learning everyday, so I will never be
 Focus the firehose with short-term goals
 ----------------------------------------
 
-#### Mentorship can fast track meaningful contribution
+### Mentorship can fast track meaningful contribution
 
 When I first started at DS, each day in my new role there was a new
 shiny tool I was seeing for the first time. I also had zero experience
@@ -241,7 +241,7 @@ mentorship technique helped when understanding our architecture more
 broadly because I was not getting distracted by misunderstanding smaller
 implementation details.
 
-#### Identifying unknowing self-sabotage
+### Identifying unknowing self-sabotage
 
 One of the biggest reasons for joining DS was that the organization
 takes a sincere interest in self-learning and skills sharpening outside
@@ -259,9 +259,9 @@ development easier. I had grown accustomed to a sink-or-swim-alone kind
 of model. At my previous employer, every person on our team had almost
 all their time allocated to a certain number of tasks for each sprint
 cycle. While maximized billing was great for our organization's bottom
-line, it made getting and giving help almost impossible.\
-Furthermore, the result of having multiple projects going at the same
-time, made it necessary to find a way to multi-focus, accordingly.
+line, it made getting and giving help almost impossible.
+Furthermore, having multiple projects going at the same
+time made it necessary to find a way to multi-focus.
 
 Aside from lack of time to build skills incrementally, there were many
 days that were overflowing with meetings so much so that I found it
@@ -276,14 +276,14 @@ back in to move my project forward. I was not using tests to guide the
 code updates and little time was spent thinking about how to best
 implement a programmatic solution.
 
-#### Teaching how to self correct
+### Teaching how to self correct
 
 Fortunately, I am thrilled to be working with a company that values
 working together to solve problems; coming up with a game plan to narrow
 my focus was no exception. The real difference maker has been the
 attitude of the team day to day helping me establish productive habits
 by keeping me accountable to focus my time and effort. First, before my
-teammates ended their day they made sure that I had what I needed to
+teammates ended their day, they made sure that I had what I needed to
 keep moving forward. Second, we would agree on the slice of work or the
 next learning task I was targeting for completion. Finally, the
 following morning, space has been created for me to report about the
@@ -313,7 +313,7 @@ of this habit.
 Conclusion
 ----------
 
-As an early career engineer, I have enjoyed several benefits of
+As an early-career engineer, I have enjoyed several benefits of
 intentional mentorship from my team. Whether it be idiomatic
 corrections, growing abstract thinking skills, or helping me focus on
 one thing at a time, they have set me on a path of long term career
