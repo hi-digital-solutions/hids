@@ -27,6 +27,9 @@
   "remarkConfig": {
     "plugins": [
       "remark-preset-lint-recommended"
-    ]
+    ],
+    "settings": {
+      "footnotes": true
+    }
   }
 }
