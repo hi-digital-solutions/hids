@@ -2,6 +2,7 @@
 title: "Lowering Onboarding Barriers For New Hires"
 author: "Kourtney Reynolds"
 date: 2020-03-27
+draft: true
 ---
 
 on·b`oard·ing
