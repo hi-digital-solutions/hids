@@ -7,7 +7,7 @@ weight: -1
 ## U.S. PRIVACY POLICY
 (updated 5/17/2019)
 
-Your privacy is important to us.  We are committed to protecting the Personal Data (as defined below) that you disclose to us through or in connection with: this website (the "Site”) currently located at [https://hidigital.solutions](https://hidigital.solutions) which is owned or operated by HI Digital Solutions, LLC ("HI Digital” or “we” or “us” or “our”); or in connection with our services, which include but are not limited to, consulting on software solutions, product development/management, as well as coaching (the “Services”).  This Privacy Policy (the “Privacy Policy”) explains how we collect, use, disclose, and share your Personal Data and your choices for managing your information preferences, including opting out of certain uses of your Personal Data.
+Your privacy is important to us.  We are committed to protecting the Personal Data (as defined below) that you disclose to us through or in connection with: this website (the "Site”) currently located at [https://hidigital.solutions](https://hidigital.solutions) which is owned or operated by H.I. Digital Solutions, LLC ("H.I. Digital” or “we” or “us” or “our”); or in connection with our services, which include but are not limited to, consulting on software solutions, product development/management, as well as coaching (the “Services”).  This Privacy Policy (the “Privacy Policy”) explains how we collect, use, disclose, and share your Personal Data and your choices for managing your information preferences, including opting out of certain uses of your Personal Data.
 
 ### Privacy Policy Changes
 
@@ -23,17 +23,17 @@ If you supply us with your email address, we may send you emails regarding produ
 
 * Sending us an email at [sales@hidigital.solutions](mailto:sales@hidigital.solutions); or
 
-* Writing to us at:  HI Digital Solutions, LLC, 13323 California Street, Omaha, NE 68154
+* Writing to us at:  H.I. Digital Solutions, LLC, 13323 California Street, Omaha, NE 68154
 
 #### Third Party/Affiliate Sharing
 
-We currently do not share your Personal Data with Third Parties and/or our Affiliates to offer products and/or services that may be relevant to you.  
+We currently do not share your Personal Data with Third Parties and/or our Affiliates to offer products and/or services that may be relevant to you.
 
 ### Information We Collect and How We Use It
 
 #### Personal Data
 
-We collect information that you choose to provide us and that personally identifies you such as your name, telephone number, e-mail address, and other personally identifiable information ("Personal Data").  You may be asked to provide us with Personal Data when you inquire about our Services.  The decision to provide Personal Data is optional.  However, if you choose not to provide the requested information, you may not be able to send us inquiries or receive information about our Services.  
+We collect information that you choose to provide us and that personally identifies you such as your name, telephone number, e-mail address, and other personally identifiable information ("Personal Data").  You may be asked to provide us with Personal Data when you inquire about our Services.  The decision to provide Personal Data is optional.  However, if you choose not to provide the requested information, you may not be able to send us inquiries or receive information about our Services.
 
 #### Usage Data and Site Activity
 
@@ -43,7 +43,7 @@ We use this information to improve our Site, Services and User Experience by mak
 
 #### Click Path Tracking
 
-Technologies such as cookies, beacons, tags, pixels and scripts are used by HI Digital and our affiliates, our marketing, testing and quality assurance partners, and/or our analytics, information technology and web monitoring service providers. These technologies are used in analyzing trends, administering the Site, tracking users' movements around the Site and to gather demographic information about our user base. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as cookies, beacons, tags, pixels and scripts are used by H.I. Digital and our affiliates, our marketing, testing and quality assurance partners, and/or our analytics, information technology and web monitoring service providers. These technologies are used in analyzing trends, administering the Site, tracking users' movements around the Site and to gather demographic information about our user base. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to help improve the Services and to help improve marketing, analytics, or Site functionality.
 
@@ -53,11 +53,11 @@ We use local storage ("LS") also referred to as HTML5 to store content informati
 
 #### Generally
 
-We currently do not share your Personal Data with third parties and/or our affiliates for their direct marketing purposes.  We also currently do not sell your Personal Data to any other third parties.  We may disclose Personal Data in special cases when we have reason to believe that disclosing this Personal Data is necessary to identify, contact or bring legal action against someone who may have breached our Terms of Use or who may be causing (whether intentionally or unintentionally) injury to or interference with our rights or property, other website users, or anyone else who could be harmed by such activities. We reserve the right to disclose your Personal Data to law-enforcement personnel and agencies when requested to do so, as required by law such as to comply with a subpoena, or if HI Digital is involved in a merger, acquisition, or sale of all or a portion of its assets.
+We currently do not share your Personal Data with third parties and/or our affiliates for their direct marketing purposes.  We also currently do not sell your Personal Data to any other third parties.  We may disclose Personal Data in special cases when we have reason to believe that disclosing this Personal Data is necessary to identify, contact or bring legal action against someone who may have breached our Terms of Use or who may be causing (whether intentionally or unintentionally) injury to or interference with our rights or property, other website users, or anyone else who could be harmed by such activities. We reserve the right to disclose your Personal Data to law-enforcement personnel and agencies when requested to do so, as required by law such as to comply with a subpoena, or if H.I. Digital is involved in a merger, acquisition, or sale of all or a portion of its assets.
 
 #### Third-Party Providers
 
-From time to time, we may establish a business relationship with other businesses whom we believe to be trustworthy and who we believe have privacy practices that are consistent with ours ("Third-Party Providers").  For example, we may contract with Third-Party Providers for the provision of certain services such as offering customer service, assessing quality and customer satisfaction, enabling website features, hosting and maintenance, data storage and management, or surveys, marketing and promotions.  We only provide our Third-Party Providers with the information necessary for them to perform services on our behalf.  Each Third-Party Provider is expected to use reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your Personal Data from unauthorized access, use or disclosure.  These companies are authorized to use your Personal Data only as necessary to provide these services.  
+From time to time, we may establish a business relationship with other businesses whom we believe to be trustworthy and who we believe have privacy practices that are consistent with ours ("Third-Party Providers").  For example, we may contract with Third-Party Providers for the provision of certain services such as offering customer service, assessing quality and customer satisfaction, enabling website features, hosting and maintenance, data storage and management, or surveys, marketing and promotions.  We only provide our Third-Party Providers with the information necessary for them to perform services on our behalf.  Each Third-Party Provider is expected to use reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your Personal Data from unauthorized access, use or disclosure.  These companies are authorized to use your Personal Data only as necessary to provide these services.
 
 #### Social Media
 
@@ -67,15 +67,15 @@ We also maintain profiles or accounts with various social media providers, inclu
 
 ### Security
 
-The company recognizes the importance of safeguarding the confidentiality of your Personal Data.  Accordingly, we employ reasonable measures designed to protect your information from unauthorized access, disclosure and use.  However, due to the open communication nature of the Internet, no system can be completely secure, and we cannot guarantee the security of your Personal Data.  Any information you transmit on or through the Site or Services is done at your own risk.  
+The company recognizes the importance of safeguarding the confidentiality of your Personal Data.  Accordingly, we employ reasonable measures designed to protect your information from unauthorized access, disclosure and use.  However, due to the open communication nature of the Internet, no system can be completely secure, and we cannot guarantee the security of your Personal Data.  Any information you transmit on or through the Site or Services is done at your own risk.
 
 ### How Long We Retain Your Data
 
-We retain your Personal Data for as long as is necessary to fulfill the purposes for which we collected it including for the duration of our relationship with you.  We also retain your personal data for a period of time after our relationship with you has ended where there is an ongoing need to retain it.  This includes retention to comply with our legal, regulatory, tax, and/or accounting obligations.  We do so in accordance with our data retention policies and applicable law.  
+We retain your Personal Data for as long as is necessary to fulfill the purposes for which we collected it including for the duration of our relationship with you.  We also retain your personal data for a period of time after our relationship with you has ended where there is an ongoing need to retain it.  This includes retention to comply with our legal, regulatory, tax, and/or accounting obligations.  We do so in accordance with our data retention policies and applicable law.
 
 ### California Do Not Track Disclosure
 
-Do Not Track is a web browser privacy preference that causes the web browser to broadcast a signal to websites requesting the user's activity that such activity will not be tracked. HI Digital’s Site does not respond to Do Not Track signals.
+Do Not Track is a web browser privacy preference that causes the web browser to broadcast a signal to websites requesting the user's activity that such activity will not be tracked. H.I. Digital’s Site does not respond to Do Not Track signals.
 
 ## Non-U.S. Visitors
 
@@ -89,6 +89,6 @@ We do not knowingly collect Personal Data from children under the age of 18 nor 
 
 If you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact:
 
-**HI Digital Solutions, LLC**  
-**13323 California Street**  
+**H.I. Digital Solutions, LLC**
+**13323 California Street**
 **Omaha, NE 68154**

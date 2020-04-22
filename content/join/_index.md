@@ -3,7 +3,7 @@ title: "Join the team"
 weight: -1
 ---
 
-We endeavor to be transparent and honest in all the activities we do at HI Digital Solutions, and there are no secrets in our hiring process.  We know that changing jobs can be stressful, and we strive to provide fast, constructive feedback every step of the way.
+We endeavor to be transparent and honest in all the activities we do at H.I. Digital Solutions, and there are no secrets in our hiring process.  We know that changing jobs can be stressful, and we strive to provide fast, constructive feedback every step of the way.
 
 ## Apply
 [Email](mailto:careers@hidigital.solutions) your resume and cover letter to get started.  We aren't doing keyword scanning for technologies, here--we want to see how you communicate and what you're interested in!
