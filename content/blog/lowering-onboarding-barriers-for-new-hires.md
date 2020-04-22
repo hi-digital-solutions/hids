@@ -8,7 +8,7 @@ draft: true
 on·b`oard·ing
 
 /ˈänˌbôrdiNG,ˌänˈbôrdiNG/
-
+git s
 noun
 
 1.  the action or process of integrating a new employee into an
