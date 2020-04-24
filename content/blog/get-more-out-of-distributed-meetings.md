@@ -29,6 +29,3 @@ I like to spend a few minutes reflecting on the social interactions as well. Did
 
 ## Your Mileage May Vary
 I started intentionally improving how I attended meetings about three years ago. I initially focused on what other people could do to accommodate me before taking ownership of my own behavior. While it’s important to provide reasonable accommodations I’ve found that these techniques reduce my dependence on the behavior of others. I’m now better able to handle meetings that take place in less than ideal circumstances such as remote meetings with conference rooms, poor equipment, or even when my neighbor starts mowing his lawn.
-
-I can’t take credit for every idea presented here. I’m frequently learning and trying new techniques that allow me to get more out of meetings. I still make mistakes; sometimes I say something that’s completely off topic to everyone else, or miss some important point. The shift in ownership has been the driving factor in improvement. Implementing different practices are most beneficial if accompanied by a desire for continuous improvement.
-
