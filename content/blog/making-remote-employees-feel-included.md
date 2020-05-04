@@ -10,26 +10,27 @@ home. No more pants! Working remotely sounds pretty great, but it's not
 for everyone.There are quite a few nuances to working remotely that you
 don\'t discover until you *actually* start doing it. Depending on your
 company culture and the processes in place, issues might arise that are
-either detrimental to your success, or mitigated well.
+either detrimental to your success or mitigated well.
 
 I've had the privilege of working from home for 4 years now. At my
-previous company, I started off in-house, with a team of 10 developers.
-After a year of working with that team, I moved cross country, and my
-manager offered me a remote position on the same team which I accepted.
-It wasn\'t until I resigned and joined a fully distributed company
-called Digital Solutions (**DS**) that I started to realize how team
-structure and processes affect remote workers.
+previous company, I started off in house with a team of 10 developers.
+After a year of working, I moved cross country and transitioned into a
+fully remote position within the same team. It wasn\'t until I resigned
+and joined a fully distributed company called Digital Solutions (**DS**)
+that I started to realize how team structure and processes affect remote
+workers.
 
-This is a mashup of observations and comparisons between both companies.
-I use my perspective of being both a remote worker on an in-house team
-and a remote worker on a fully distributed team to share some insights
-into how to build a more inclusive environment for remote workers. I\'m
-going to walk through the importance of morning meetings, the importance
-of working together to make sure everyone feels apart of a team,
-choosing a communication medium that fosters inclusion with remote
-workers, some of the reasons why DS chooses to use pair partners, the
-idea of lazy management, and finally I\'ll talk about my experience with
-yearly meetups and why they're important for remote workers.
+This blog post is a mashup of observations and comparisons between both
+companies. I use my perspective of being both a remote worker on an in
+house team and a remote worker on a fully distributed team to share some
+insights into how to build a more inclusive environment for remote
+workers. I\'m going to go over why you shouldn\'t stop doing standup,
+the importance of working together to make sure everyone feels apart of
+a team, how choosing a communication medium will help foster inclusion
+with remote workers, the reasons why DS chooses to use pair partners,
+why you should use outcome based management, and finally I\'ll talk
+about my experience with yearly meetups and why they're important for
+remote workers.
 
 ### Standups are more important than you may think
 
@@ -52,10 +53,10 @@ pair or [mob
 programming](https://www.hidigital.solutions/blog/our-path-to-mobbing/)
 for our work. We also have an hour-long team learning once a week in
 which all teams across DS join a video call and learn something new, or
-solve a problem via mobbing (link to Ian's mobbing). If you have remote
-workers on your team, understand that whole team meetings and getting
-more face time should be done frequently to help remote employees stay
-in the loop and ward off their insanity.
+solve a problem via mobbing. If you have remote workers on your team,
+understand that whole team meetings and getting more face time should be
+done frequently to help remote employees stay in the loop and ward off
+their insanity.
 
 ### Don't put your team members on an island
 
@@ -67,32 +68,32 @@ from client, to business analyst, to developer; user stories were
 created and fleshed out by our business analysts and then put into our
 backlog. Every few months when we planned a release, it was my
 responsibility to assign these backlog stories to every team member.
-This got tricky because each developer had their own product, or chunk
-of the system that they typically worked on. We were all on the same
-team, but oftentimes worked on completely unrelated work. Employees in
-the office often complained that they felt siloed, but it was easier for
+This got tricky because each developer had their own product or chunk of
+the system that they typically worked on. We were all on the same team
+but oftentimes worked on completely unrelated work. Employees in the
+office often complained that they felt siloed, but it was easier for
 them to run into coworkers around the office. For myself, this issue was
 magnified tenfold. There were *no* opportunities to run into another
-team member. No opportunities to walk by someone\'s desk and white board
-about a collaborative solution. No opportunities for someone to read my
+team member, no opportunities to walk by someone\'s desk and whiteboard
+about a collaborative solution, no opportunities for someone to read my
 code outside of formal code reviews. This created silos of knowledge,
 and ultimately led me to feel as if I was on an island with the only
 source of water being daily standup.
 
 Without the proximity of coworkers to enable organic knowledge sharing,
 it's important to put processes in place that mitigate this slippery
-slope. At DS, we utilize Kanban with a WIP limit of one work item. Work
-is then moved forward as a team - as one single unit. That means no
-matter what role you have on the team, you are mobbing on the same work
-item as the rest of your team. It's important that we all share the same
-knowledge across the team, but more importantly for remote workers is
-that this way of working reinforces the team dynamic, so no one feels
-like they are alone, working in a silo.
+slope. At DS, we utilize Kanban with a work in progress (WIP) limit of
+one. Work is then moved forward as a team - as one single unit. That
+means no matter what role you have on the team, you are mobbing on the
+same work item as the rest of your team. It's important that we all
+share the same knowledge across the team, but more importantly, this way
+of working reinforces our team dynamic such that no one feels like they
+are working in a silo.
 
 ### Communication is hard, so choose your medium wisely
 
-I recently flew in to meet in person with my team at DS for a few days.
-I noticed myself making fewer social faux pas than when we video call
+I recently flew to meet in person with my team at DS for a few days. I
+noticed myself making fewer social faux pas than when we video call
 day-to-day. Being able to read each other\'s body language made it far
 easier for me to communicate. This is a downside to remote work that
 needs to be addressed properly. When remote, certain actions such as
@@ -107,14 +108,14 @@ camera on during a video call was like pulling teeth. Comparing the two,
 this simple act makes a noticeable difference in how I feel about my
 team. Seeing someone\'s face when you're talking to them not only makes
 it easier to communicate, but you truly get a sense of "I've seen this
-person recently". Assuming you all dont hate each other, you feel closer
-to your team when you see them more often.
+person recently." Assuming you all don't hate each other, you feel
+closer to your team when you see them more often.
 
 With that being said, we're not all social butterflies and it's
-unrealistic to be on video calls all day. What if I just want to ask a
-single question, do I *really* need to spin up a call? Instant messaging
+unrealistic to be on video calls all day. If I just want to ask a single
+question, do I *really* need to spin up a call? Instant messaging
 applications such as Slack and Microsoft Teams fill the void when video
-calls aren\'t a good choice and they are integral to teams working with
+calls aren\'t a good choice, and they are integral to teams working with
 remote employees. At DS, Slack is our primary method of communicating
 outside of video calls. This method of communication encourages us to
 chat informally with each other across a broad range of topics. Instant
@@ -142,10 +143,10 @@ XP is Pair Programming. This is where two developers work together at
 one workstation on the same code. For us as remote developers, this
 means two developers on a video call where one developer is sharing
 their screen. One developer "drives" and the other gives instructions
-and suggestions. I believe that this practice is of such significance to
-the success of remote workers, I would love to see it become adopted
-more broadly in the industry. Aside from removing the feelings of
-isolation, there are numerous more [benefits to pair
+and suggestions. I believe this practice is of such significance to the
+success of remote workers, I would love to see it become adopted more
+broadly in the industry. Aside from removing the feelings of isolation,
+there are numerous more [benefits to pair
 programming](https://wiki.c2.com/?PairProgrammingBenefits),
 but they are simply out of scope for this article. Pair programming is
 the main reason why I joined DS. I understood that if I were to be
@@ -162,8 +163,7 @@ willing to sacrifice on other boxes, such as their technical skills.
 This is exactly where pair programming *really* shines - learning.
 Everyone on the team starts to learn from each other and you enable
 junior employees to take advantage of the numerous benefits of
-mentorship.
-They're drinking from the firehose *every single day*. It\'s much more
+mentorship. They're drinking from the firehose *every single day*. It\'s much more
 difficult to drive behavioral changes than it is to teach someone new
 coding paradigms. To bring this back to remote work, when you've chosen
 team members that all get along, pairing with them for the majority of
@@ -173,11 +173,12 @@ together. I can honestly say that I love working with each member of my
 team, and I know [that was not an
 accident](https://www.hidigital.solutions/blog/iterating-on-our-hiring-process/).
 
+
 ### So what would you say you do here?
 
 I was initially skeptical about accepting a remote position at my
 previous company. I had heard that these positions were not given out
-easily, and that enior management was very skeptical of remote
+easily, and that senior management was very skeptical of remote
 positions. I was told they felt that people who weren't in the office
 were likely not working as hard. Not only is this inaccurate, but it's
 not an effective way to manage your employees.
@@ -191,7 +192,7 @@ critically about which of those are good indicators of success.
 
 ### Don\'t forget to rendezvous with the mothership
 
-During our recent in person gathering with members of DS, I felt like I
+During our recent in-person gathering with members of DS, I felt like I
 really bonded with my teammates. A couple of my best memories from that
 trip were spending time with a few of my coworkers, bourbon in hand,
 discussing philosophy at 11pm, and looking around the table at dinner
@@ -216,3 +217,4 @@ my happiness and feeling of inclusion on the team I was on. I hope the
 lessons and observations I've laid out here can help you become a more
 happy remote employee, or drive more remote employee satisfaction at
 your own company.
+
