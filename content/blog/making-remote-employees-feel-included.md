@@ -1,8 +1,7 @@
 ---
 title: "Making Remote Employees Feel Included"
 author: "Kevin Price"
-date: 2020-04-16
-draft: true
+date: 2020-05-05
 ---
 
 Sleep in late. No more traffic. Save money by cooking your lunches at
