@@ -17,3 +17,4 @@ command = "./build.sh"
   from = "/blog/how-to-overcomplicate/"
   to = "https://roub.net/blahg/2020/03/02/how-to-overcomplicate/"
   status = 301
+  force = true
